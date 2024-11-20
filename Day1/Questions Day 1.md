@@ -6,3 +6,7 @@ Question 3 : Write a program to print week of day when a week number is given as
 Question 4 : Write a program to equally divide N no of chocolates among X no of people? Also show the remaining no of chocolates? <br>
 Question 5 : Write a program to find the square of the smallest numbers among 3 numbers as input from user? <br> 
 
+<br>
+<br>
+Answer your questions and copy/type your answers in your respective folders and also write the output along the file. <br> 
+Name the file as per the Questionno.
