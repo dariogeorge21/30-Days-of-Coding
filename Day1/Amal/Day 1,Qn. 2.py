@@ -10,7 +10,7 @@ else:
        print(Number," is odd no")
           
 
-      𝗢𝗨𝗧𝗣𝗨𝗧
+      #𝗢𝗨𝗧𝗣𝗨𝗧
 
 Enter a number: 7
 7  is odd no
