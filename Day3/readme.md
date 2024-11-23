@@ -1,64 +1,55 @@
-# Conditional Statements Using Python **Day 3**
+# While Loop Using Python **Day 4**
 
 Hello Team,
-This folder contains Python programming questions to practice **if-else statements**. Below are the questions for you to solve.
+This file contains a collection of Python questions focusing on the use of the `while` loop. These questions are to enhance your understanding of iterative logic in Python.
 
 ---
 
-## Question 1: Write a program that takes a student's marks and prints the grade based on the following criteria:  
+## Questions
 
-- Marks > 90: `A`  
-- Marks > 80: `B`  
-- Marks > 70: `C`  
-- Marks > 60: `D`  
-- Otherwise: `F`  
 
-### Example:
-Input:  85
-Output:  B
-
+1. **Print Even Numbers from N to 1**  
+   Write a program to print all even numbers between \(N\) and 1, where \(N\) is input by the user.
 
 ---
 
-## Question 2: Write a program that determines if a given year is a leap year. A year is a leap year if it is divisible by 4 but not by 100, unless it is divisible by 400.
+2. **Sum of Digits**  
+   Write a program to find the sum of the digits of a number entered by the user using a `while` loop.
+   
+---
 
-
-
-### Example:
-Input: 2000
-Output: Leap Year
-
+3. **Reverse a Number**  
+   Write a program to reverse a number entered by the user using a `while` loop.  
+   *(e.g., Input: 123, Output: 321)*
 
 ---
 
-## Question 3: Write a program to find the smallest of three numbers entered by the user.
-
-### Example:
-Input: 3, 7, 1
-Output: 1
+4. **Count Digits in a Number**  
+    Write a program to count the number of digits in a number entered by the user.
 
 ---
 
-## Question 4: Write a program to check if three sides entered by the user can form a valid triangle. The triangle is valid if the sum of any two sides is greater than the third side.
+5. **Armstrong Numbers in a Range**  
+    Write a program to find all Armstrong numbers between two numbers entered by the user. Use a `while` loop to check each number.
 
+
+Armstrong numbers (also known as narcissistic numbers) are numbers that are equal to the sum of their own digits, each raised to the power of the number of digits in the number.
 
 ### Example:
-Input: 3, 4, 5
-Output: Valid Triangle
+
+**153** is an Armstrong number because:
+
+\[
+1^3 + 5^3 + 3^3 = 1 + 125 + 27 = 153
+\]
+
+Thus, 153 is an Armstrong number.
 
 ---
 
-## Question 5: Write a program that takes an integer and classifies it as:
+15. **Check Palindrome Number**  
+    Write a program to check if a number is a palindrome (i.e., reads the same backward as forward) using a `while` loop.
 
-
-- Positive and Even  
-- Positive and Odd  
-- Negative and Even  
-- Negative and Odd  
-- Zero  
-
-### Example:
-Input: -2
-Output: Negative and Even
+---
 
 Thankyou and have a nice day.
