@@ -61,4 +61,4 @@ Output: Valid Triangle
 Input: -2
 Output: Negative and Even
 
-Thankyou and have a nice day
+Thankyou and have a nice day.
