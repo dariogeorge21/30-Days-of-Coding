@@ -1,7 +1,7 @@
-year=int(input("Enter year :"))
-if year%100!=0 and year%4==0:
-    print ("Leap Year")
-elif year%100==0 and year%400==0:
-    print ("Leap Year")
-else:
-    print("Not a leap year!!")
+a=int(input("Enter a number: "))
+sum=0
+while a>0:
+    b=a%10
+    sum+=b
+    a=a//10
+print ("Sum of digits:",sum)

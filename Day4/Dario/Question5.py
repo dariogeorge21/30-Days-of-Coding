@@ -1,14 +1,12 @@
 num=int(input("Enter a number: "))
-if num==0:
-    print("The number is zero")
+num_temp=num
+arm_num=0
+length=len(str(num))
+while num>0:
+    digit=num%10
+    arm_num+=digit**length
+    num=num//10
+if arm_num==num_temp:
+    print("It is a Armstrong Number")
 else:
-    if num>0:
-        if (num%2==0):
-            print("Positive and Even")
-        else:
-            print("Positive and Odd")
-    else:
-        if num%2==0:
-            print("Negative and Even")
-        else:
-            print("Negative and Odd")
+    print("It is not a Armstrong Number")
