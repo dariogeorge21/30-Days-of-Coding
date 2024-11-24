@@ -1,0 +1,18 @@
+#Question 1: Write a program to check 2 variables have same value or not using Identity Operator.
+
+a=21
+b=21
+
+if a is b:
+    print("a and b has same value")
+
+else:
+    print("a and b has different value")
+    
+       
+
+       𝗢𝗨𝗧𝗣𝗨𝗧
+
+#a and b has same value
+
+#[Program finished]
