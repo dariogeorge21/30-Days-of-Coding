@@ -1,4 +1,4 @@
-
+#Question 5 : Write a program to find the square of the smallest numbers among 3 numbers as input from user?
 
 num1 = float(input("Enter the first number: "))
 num2 = float(input("Enter the second number: "))
@@ -28,4 +28,4 @@ Enter the third number: 8
 The smallest number is: 8.0
 The square of the smallest number is: 64.0
 
-[Program finished]
+#[Program finished]
