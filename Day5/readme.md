@@ -45,9 +45,9 @@ Armstrong numbers (also known as narcissistic numbers) are numbers that are equa
 
 Thus, 153 is an Armstrong number.
 
-### OR
+---
 
-5. **Check Palindrome Number**  
+15. **Check Palindrome Number**  
     Write a program to check if a number is a palindrome (i.e., reads the same backward as forward) using a `while` loop.
 
 ---
