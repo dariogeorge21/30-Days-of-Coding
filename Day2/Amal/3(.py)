@@ -1,0 +1,20 @@
+# Question 3 : Write a program to check weather the X string lies in Y string using membership operators
+
+x=input("Type the Y string:")
+y=input("Type the X string :")
+
+if y in x:
+    print("True")
+    
+else:
+    print("False")
+
+
+       #𝗢𝗨𝗧𝗣𝗨𝗧
+
+
+#Type the Y string:iam mr clean
+#Type the X string :mr
+#True
+
+#[Program finished]
