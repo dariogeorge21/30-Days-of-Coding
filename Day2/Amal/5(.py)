@@ -1,0 +1,32 @@
+#Question 5 : Write a menu driven program by asking the user to perform which arithmetic operator has to be used, and perform it by inputing 2 numbers?
+
+ao=input("Enter your operator")
+x=int(input("Enter the first number:"))
+y=int(input("Enter the second number:"))
+
+if ao=="+":
+    print(x+y)
+elif ao=="-":
+    print(x-y)
+  
+elif ao=="*":
+    print(x*y)
+    
+elif ao=="/":
+    print(x/y)
+    
+elif ao=="%":
+     print(x%y)
+     
+else:
+       print("invalid operator")
+
+
+           #𝗢𝗨𝗧𝗣𝗨𝗧
+
+#Enter your operator-
+#Enter the first number:90
+Enter the second number:75
+#15
+
+#[Program finished]
