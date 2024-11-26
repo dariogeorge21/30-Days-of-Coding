@@ -1,4 +1,4 @@
-
+#Check whether it is a triangle
 l=[]
 for i in range (3):
     n=int(input("Enter"))
