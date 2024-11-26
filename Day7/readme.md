@@ -46,11 +46,12 @@ It must be a inversed right triangular pattern with 4 rows and alphabets decreas
 
 4. **Write a program to print Pyramid pattern using a `for` loop**
 
- ### Pattern :     
- ###                   * 
- ###                  * * 
- ###                 * * * 
- ###                * * * * 
+ ### Pattern :   
+ 
+                       * 
+                      ***
+                     ***** 
+                    *******   
                 
 It must be a pyramid pattern with 4 rows and patterns increasing in ascending order
 
@@ -59,10 +60,11 @@ It must be a pyramid pattern with 4 rows and patterns increasing in ascending or
 5. **Write a program to print Pyramid pattern using a `for` loop**
 
  ### Pattern :      
- ###                  1
- ###                1 2 1
- ###              1 2 3 2 1
- ###            1 2 3 4 3 2 1
+ 
+                       1 
+                      121
+                     12321 
+                    1234321   
                 
 It must be a pyramid pattern with 4 rows and patterns increasing in ascending order
 
