@@ -11,4 +11,4 @@ for i in range(y):
 	sum=sum+l[i]
 print(sum,"Is the sum of the list")
 avg=sum/y
-print(avg,"Is the average of the list")
+print(avg,"Is the average of the list") 
