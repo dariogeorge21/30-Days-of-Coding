@@ -3,4 +3,4 @@ l=[]
 for i in t:
     lu=[i,t.index(i)]
     l.append(lu)
-print(l)
+print(l) 

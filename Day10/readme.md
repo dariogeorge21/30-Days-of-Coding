@@ -4,7 +4,7 @@ Hello Team,
 This folder contains user-friendly Python programming exercises focused on **tuples**. These exercises are designed to help you practice and understand tuple operations in Python. 
 
 --- 
-
+  
 ## Questions  
 
 ### 1. Merge and Sort Tuples  

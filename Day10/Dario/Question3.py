@@ -4,4 +4,4 @@ for i in t:
     for j in i:
         sum+=j
 print(sum)
-    
+     

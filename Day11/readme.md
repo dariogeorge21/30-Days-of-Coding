@@ -11,7 +11,7 @@ This folder contains moderate level Python programming exercises designed to hel
 ## Example:
 - Input: `"A man, a plan, a canal, Panama!"`
 - Output: `True`
-
+ 
 ---
 
 ### **2. Given a list of integers, write a program to remove all duplicates and return the second largest unique number.**
