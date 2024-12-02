@@ -39,3 +39,19 @@ else:
         i+=1
     
     
+'''output
+eneter the number:1000
+enter the second number:1
+1
+2
+3
+4
+5
+6
+7
+8
+9
+153
+370
+371
+407'''
