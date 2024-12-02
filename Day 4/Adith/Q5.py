@@ -38,4 +38,4 @@ else:
             print(arm)
         i+=1
     
-    print("hello")
+    
