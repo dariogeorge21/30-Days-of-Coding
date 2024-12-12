@@ -1,0 +1,10 @@
+x=int(input("Enter the number X:"))
+y=int(input("Enter the number Y:"))
+
+if x%y==0:
+    print(f"{x} is a multiple f {y}")
+
+else:
+    print("Not a multiple")
+    
+    
