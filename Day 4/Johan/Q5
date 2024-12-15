@@ -1,0 +1,27 @@
+x=int(input("Enter the number:"))
+x1=x
+y=str(x)
+z=list(y)
+length=len(z)
+sum=0
+while x>0:
+	modulus=x%10
+	a=x//10
+	x=a
+	pow=modulus**length
+	sum=pow+sum
+#print(sum)
+#print(x1)
+if sum==x1:
+	print("its an armstrong")
+else:
+	print("its not an armstrong")
+print()
+print()
+#"palindrome using while loop"
+x1=str(input("enter the string"))
+y1=x1.lower()
+z1=y1[::-1]
+while y1==z1:
+	print("its an palindrome")
+	break	
