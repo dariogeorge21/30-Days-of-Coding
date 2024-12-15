@@ -1,0 +1,7 @@
+x=int(input("enter the number"))
+while x>0:
+	y=x%10
+	z=x//10
+	x=z
+	print(y,end=" ")
+    
