@@ -1,0 +1,4 @@
+x=int(input("enter"))
+x=str(x)
+y=list(x)
+print(len(y))
