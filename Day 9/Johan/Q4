@@ -1,0 +1,6 @@
+Set_A= {1, 2}
+Set_B= {1,2,3}
+if Set_A.issubset (Set_B):
+	print("True")
+else:
+	print("False")
