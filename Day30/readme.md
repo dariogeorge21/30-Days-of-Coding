@@ -1,4 +1,4 @@
-# Python Revision Practice-8 **Day 24**
+# Python Revision Practice **Day 30**
 
 This folder contains a list of Python programming questions for **revision**. Each question includes a hint to help you get started.
 
@@ -6,31 +6,32 @@ This folder contains a list of Python programming questions for **revision**. Ea
 
 ---
 
-1. **Use the `math` module to find the ceiling and floor values of a given float.**  
-    *Hint:* Use `math.ceil()` and `math.floor()`.
 
----
-
-2. **Write a program to check if a given tuple is sorted in ascending order.**  
-    *Hint:* Compare the tuple with its sorted version.
-
----
-
-3. **Implement a Python program to flatten a nested list.**  
-    *Hint:* Use recursion or a stack.
-
----
-
-4. **Write a Python script to find the first recurring character in a string.**  
-    *Hint:* Use a set to track seen characters.
-
----
-
-5. **Create a function to find the symmetric difference of two sets.**  
-    *Hint:* Use the `^` operator or `symmetric_difference()`.
+**1. Implement a recursive function to compute the power of a number (`a^b`).**
 
 ---
 
 
-Feel free to attempt these problems and refer to the hints if you get stuck!
+**2. Write a recursive function to compute the sum of the first `n` natural numbers.**
+
+---
+
+
+**3. Implement a recursive function to count the number of occurrences of a given element in a list.**
+
+---
+
+
+**4. Write a recursive function to find the longest common prefix among a list of strings.**
+
+---
+
+
+**5. Implement a recursive function to generate all possible subsets of a given list.**
+
+---
+
+
+
+Feel free to attempt these problems!
 Thankyou and have a nice day!!
