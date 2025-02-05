@@ -1,4 +1,4 @@
-# Python Revision Practice-8 **Day 24**
+# Python Revision Practice **Day 28**
 
 This folder contains a list of Python programming questions for **revision**. Each question includes a hint to help you get started.
 
@@ -6,31 +6,30 @@ This folder contains a list of Python programming questions for **revision**. Ea
 
 ---
 
-1. **Use the `math` module to find the ceiling and floor values of a given float.**  
-    *Hint:* Use `math.ceil()` and `math.floor()`.
-
----
-
-2. **Write a program to check if a given tuple is sorted in ascending order.**  
-    *Hint:* Compare the tuple with its sorted version.
-
----
-
-3. **Implement a Python program to flatten a nested list.**  
-    *Hint:* Use recursion or a stack.
-
----
-
-4. **Write a Python script to find the first recurring character in a string.**  
-    *Hint:* Use a set to track seen characters.
-
----
-
-5. **Create a function to find the symmetric difference of two sets.**  
-    *Hint:* Use the `^` operator or `symmetric_difference()`.
+**1. Given three numbers, write a function to find the maximum without using built-in functions.**
 
 ---
 
 
-Feel free to attempt these problems and refer to the hints if you get stuck!
+**2. Implement a program that simulates a simple login system with three attempts before locking the user out.**
+
+---
+
+
+**3. Write a function that determines if a point `(x, y)` lies inside a given rectangle.**
+
+---
+
+
+**4. Implement a program that classifies a given number as small, medium, or large based on predefined ranges.**
+
+---
+
+
+**5. Given a character, write a function that checks if it's a vowel or consonant using conditionals.**
+
+---
+
+
+Feel free to attempt these problems!
 Thankyou and have a nice day!!
